@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Anthony Fon Njinjoh
 
-<!--
-**anthonyfonnjinjoh-coder/anthonyfonnjinjoh-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering for Product Innovation student at the University of Padua, Italy.
 
-Here are some ideas to get you started:
+🚗 Passionate about automobiles, engineering, product design, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+- GitHub
+- Web Development
+- JavaScript
+- CAD & Engineering Tools
+
+🛠️ Interested in:
+- Automotive Engineering
+- Mechanical Design
+- Product Engineering
+- Simulation & Analysis
+- Technology Innovation
+
+📚 Goals:
+- Build engineering and software skills
+- Work in the automotive industry
+- Create impactful engineering projects
+
+🌍 From Cameroon 🇨🇲
+📍 Based in Italy 🇮🇹
+
+---
+
+## 🔧 Tools & Technologies
+- SolidWorks
+- ANSYS
+- Git & GitHub
+- HTML & CSS
+- JavaScript (beginner)
+
+---
+
+## 📈 Currently Working On
+- Learning GitHub and Open Source
+- Improving engineering design skills
+- Building my professional portfolio
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (put your LinkedIn link here)
