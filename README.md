@@ -44,4 +44,4 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (put your LinkedIn link here)
+- LinkedIn:https://www.linkedin.com/in/anthony-fon-njinjoh-8aaa4a251
